@@ -177,3 +177,7 @@ footer p {
 hr {
     border-color: #BEBEBE;
 }
+.carousel-inner {
+    padding-bottom: 43%;
+    height: 0;
+}
