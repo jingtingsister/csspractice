@@ -358,7 +358,7 @@ h3 {
 
 .zoomIn {
   animation-name: zoomIn;
-  animation-duration: 1.5s;
+  animation-duration: 0.5s;
 }
 @keyframes fadeOutUp {
   from {
